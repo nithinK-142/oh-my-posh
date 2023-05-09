@@ -11,7 +11,8 @@
 > oh-my-posh init pwsh | Invoke-Expression
 
 > oh-my-posh init pwsh --config C:\Users\nithi\OneDrive\Documents\PowerShell\ohmyposhv3-v2.json | Invoke-Expression
--->To change theme load theme with oh-my-posh init pwsh --config C:\Users\nithi\AppData\Local\Programs\oh-my-posh\NAME.json | Invoke-Expression
+--> Choose from : Get-Poshthemes
+-->To change theme load theme with : oh-my-posh init pwsh --config C:\Users\nithi\AppData\Local\Programs\oh-my-posh\NAME.json | Invoke-Expression
 
 > Terminal JSON
   "profiles": 
